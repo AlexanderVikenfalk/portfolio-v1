@@ -11,5 +11,5 @@ This work portolio is an ever changing project that is suppossed to reflect my c
 
 [Link to Project](https://alexandervikenfalk.github.io/)
 
-[LinkedIn](https://www.linkedin.com/in/alexander-wikenfalk-6b993b42)
+[LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
 
