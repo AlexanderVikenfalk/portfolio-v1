@@ -5,7 +5,7 @@ This work portolio is an ever changing project that is suppossed to reflect my c
  
 #### Technologies used: 
 * **HTML-5** structure and content.
-* **CSS** for layout and desiggn.
+* **CSS** for layout and design.
 * **Bootstrap** for responsive design.
 * **JS/Jquery** for effects and functionality. 
 
